@@ -4,7 +4,7 @@ Try playing this game
 ABOUT THE GAME:
 
 A gambling problem by guessing the right number between 0 and 9 with 3 chances . Suppose that a player starts with Rs. 1,000. If a player canguess the number in his first chance, then he will be given a prize of Rs. 5,000, if he requires 2 attempts then he will get a prize of Rs.1,000. If he loses then he will lose Rs. 500. For example the game should go like this:
-You have a cash of Rs. 1,000 with you...
+You have a cash of Rs. 1,000 with you,
 Guess the number: 8
 Too high
 Guess the number: 3
